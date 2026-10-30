@@ -1,0 +1,6 @@
+{
+  "name": "Nomen — Name Check-In & Registry",
+  "description": "A clean, focused web application designed to request, format, and register visitor names with instant badge preview and directory management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
